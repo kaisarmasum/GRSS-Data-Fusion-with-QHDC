@@ -43,7 +43,7 @@ We propose a **Dual-Input Quantum HDC Model** using:
 
 ## 🧩 Proposed Method: Dual-Input QuantumHDC
 
-![Dual-Input QuantumHDC Architecture](Figure.pdf)
+![Dual-Input QuantumHDC Architecture](Figure.png)
 
 ## 🧪 Results
 

@@ -154,5 +154,4 @@ If you use this work, please cite:
 ```
 TBA
 ```
-# GRSS-Data-Fusion
-# 7/14/2025
+## Create date: 7/14/2025

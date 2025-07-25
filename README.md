@@ -43,7 +43,26 @@ We propose a **Dual-Input Quantum HDC Model** using:
 
 ## 🧩 Proposed Method: Dual-Input QuantumHDC
 
-![Dual-Input QuantumHDC Architecture](Figure.png)
+The proposed architecture jointly processes SAR and optical data streams using quantum projection and hyperdimensional encoding. Each input is reshaped, projected, and fused to produce final predictions via an output layer.
+
+```text
+Track 1 (SAR) Data ───► Reshape ───► Quantum Projection ─┐
+                                                         │
+                                                         ▼
+                                                  ┌─────────────┐
+                                                  │             │
+Track 2 (Optical) Data ─► Reshape ─► Quantum Projection ─┘
+                                                  │
+                                                  ▼
+                                          Averaging & Fusion
+                                                  │
+                                                  ▼
+                                             Output Layer
+                                                  │
+                                                  ▼
+                                           Joint Prediction
+```
+
 
 ## 🧪 Results
 

@@ -1,4 +1,4 @@
-# 🌊 QuantumHDC for Flood Mapping (NASA BEYOND Challenge 2024)
+# 🌊 QuantumHDC for Flood Mapping (NASA BEYOND Challenge 2024) - Team tML-ECT
 
 🚀 Welcome to our solution for the **NASA BEYOND Challenge: Novel Computing Architectures for Flood Analysis**, where we tackle flood rapid mapping using **Hyperdimensional Computing (HDC)** and **Quantum Simulation**.
 

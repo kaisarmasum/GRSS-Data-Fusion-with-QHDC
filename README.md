@@ -115,10 +115,10 @@ Track 2 (Optical) Data ─► Reshape ─► Quantum Projection ─┘
 
 | Name | 🎓 Affiliation | 🔗 Google Scholar |
 |------|----------------|-------------------|
-| Abu Kaisar Mohammad Masum| University of Louisiana at Lafayette | [🔗]([https://scholar.google.com/citations?user=B194MGYAAAAJ&hl=en]) |
-| Mehran Shoushtari Moghadam | Case Western Reserve University | [🔗]([(https://scholar.google.com/citations?user=1TsiuPcAAAAJ&hl=en)]) |
-| Sercan Aygun | University of Louisiana at Lafayette | [🔗]([https://scholar.google.com/citations?user=9CMxwUQAAAAJ&hl=en]) |
-| M. Hassan Najafi| Case Western Reserve University | [🔗]([https://scholar.google.com/citations?user=vIc-83QAAAAJ&hl=en]) |
+| Abu Kaisar Mohammad Masum| University of Louisiana at Lafayette | [🔗](https://scholar.google.com/citations?user=B194MGYAAAAJ&hl=en) |
+| Mehran Shoushtari Moghadam | Case Western Reserve University | [🔗]((https://scholar.google.com/citations?user=1TsiuPcAAAAJ&hl=en)) |
+| Sercan Aygun | University of Louisiana at Lafayette | [🔗](https://scholar.google.com/citations?user=9CMxwUQAAAAJ&hl=en) |
+| M. Hassan Najafi| Case Western Reserve University | [🔗](https://scholar.google.com/citations?user=vIc-83QAAAAJ&hl=en) |
 
 
 ---
@@ -131,7 +131,7 @@ Open each track's notebook or the dual-input fusion notebook:
 
 ```bash
 jupyter notebook Track1.ipynb
-jupyter notebook Track\ 2.ipynb
+jupyter notebook Track2.ipynb
 jupyter notebook Multimodal_DualInputQuantumHDC.ipynb
 ```
 

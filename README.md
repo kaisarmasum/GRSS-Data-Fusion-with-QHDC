@@ -35,7 +35,7 @@ We propose a **Dual-Input Quantum HDC Model** using:
 1. **Preprocessing**:
    - Reshape (C, H, W) → (H×W, C)
 2. **Quantum Projection**:
-   - Map feature vectors into quantum-inspired HD space
+   - Map feature vectors into quantum HD space
 3. **Encoding & Superposition**:
    - Class-based HD vectors accumulated via binding
 4. **Similarity Matching**:
@@ -100,8 +100,6 @@ Track 2 (Optical)┘               └─> Class Vector 3
 
 ## 🧑‍💻 Contributors
 
-## 🧑‍💻 Contributors
-
 | Name | 🎓 Affiliation | 🔗 Google Scholar |
 |------|----------------|-------------------|
 | Abu Kaisar Mohammad Masum| University of Louisiana at Lafayette | [🔗]([https://scholar.google.com/citations?user=B194MGYAAAAJ&hl=en]) |
@@ -129,9 +127,9 @@ jupyter notebook Multimodal_DualInputQuantumHDC.ipynb
 ## 🔑 Key Technologies
 
 - [Qiskit AerSimulator](https://qiskit.org/)
-- [Hyperdimensional Computing (HDC)](https://ieeexplore.ieee.org/document/8959495)
+- [Hyperdimensional Computing (HDC)](https://arxiv.org/abs/2311.10778)
 - Sobol sequence-based projection
-- Quantum-inspired learning
+- QuantumHDC learning
 - SAR and optical data fusion
 
 ---

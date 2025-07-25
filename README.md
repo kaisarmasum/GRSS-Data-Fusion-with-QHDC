@@ -41,15 +41,9 @@ We propose a **Dual-Input Quantum HDC Model** using:
 4. **Similarity Matching**:
    - Associative memory retrieves most similar class vector
 
-### 🧪 Example Architecture
+## 🧩 Proposed Method: Dual-Input QuantumHDC
 
-```
-Track 1 (SAR) ───┐               ┌─> Class Vector 1
-                 ├─> HDC Fusion ─┼
-Track 2 (Optical)┘               └─> Class Vector 3
-```
-
----
+![Dual-Input QuantumHDC Architecture](Figure.pdf)
 
 ## 🧪 Results
 

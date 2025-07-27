@@ -92,12 +92,6 @@ Track 2 (Optical) Data ─► Reshape ─► Quantum Projection ─┘
 | HDC-Sobol (D=1024)           | **0.039**        | **96.2**         | **96.2**         | **96.2**          | **96.2**       | 3             |
 | Quantum-HDC_8qubit (D=1024)  | **0.049**        | **96.5**         | **96.4**         | **96.4**          | **96.5**       | 3             |
 
-## 🔄 Results — Dual-Input QuantumHDC (SAR + Optical Fusion)
-
-| **Method**                     | **Run Time (s)** | **Accuracy (%)** | **F1-Score (%)** | **Precision (%)** | **Recall (%)** | **Iteration** |
-|--------------------------------|------------------|------------------|------------------|-------------------|----------------|---------------|
-| Proposed Dual-Input QuantumHDC | **181.612**      | **70.5**         | **82.0**         | **99.1**          | **70.5**       | 3             |
-
 
 ---
 

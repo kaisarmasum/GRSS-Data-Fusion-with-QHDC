@@ -1,4 +1,4 @@
-# 🌊 QuantumHDC for Flood Mapping (NASA BEYOND Challenge 2024) - Team tML-ECT
+# 🌊 QuantumHDC for Flood Mapping (NASA BEYOND Challenge 2024) - Team tML-ECT - FINALIST
 
 🚀 Welcome to our solution for the **NASA BEYOND Challenge: Novel Computing Architectures for Flood Analysis**, where we tackle flood rapid mapping using **Hyperdimensional Computing (HDC)** and **Quantum Simulation**.
 
@@ -65,19 +65,6 @@ Track 2 (Optical) Data ─► Reshape ─► Quantum Projection ─┘
 
 
 ## 🧪 Results
-
-## 📊 Results — Track 1: Synthetic Aperture Radar (SAR)
-
-> Quantum Simulator: IBM Qiskit AerSimulator
-
-| **Method**                    | **Run Time (s)** | **Accuracy (%)** | **F1-Score (%)** | **Precision (%)** | **Recall (%)** | **Iteration** |
-|------------------------------|------------------|------------------|------------------|-------------------|----------------|---------------|
-| LR                           | 0.380            | 98.8             | 98.4             | 98.6              | 98.8           | 1000          |
-| MLP                          | 17.981           | 99.0             | 98.8             | 99.0              | 99.0           | 500           |
-| SVM                          | 6.765            | 99.0             | 98.8             | 99.0              | 99.0           | 1000          |
-| RF                           | 7.782            | **99.1**         | **99.1**         | **99.1**          | **99.1**       | –             |
-| HDC-Sobol (D=1024)           | 8.560            | 67.1             | 80.3             | **99.9**          | 67.1           | 3             |
-| Quantum-HDC_6qubit (D=1024)  | 8.510            | 69.6             | 82.0             | **99.9**          | 69.5           | 3             |
 
 ## 📊 Results — Track 2: Optical Data
 
@@ -148,4 +135,4 @@ If you use this work, please cite:
 ```
 TBA
 ```
-## Create date: 7/14/2025
+## Create date: 07/14/2025, Update: 09/12/2025 (Finalist Info. Added)
